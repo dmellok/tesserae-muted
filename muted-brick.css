@@ -1,0 +1,20 @@
+[data-theme="muted-brick"] {
+  --font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+  --bg:             #C77F67;
+  --surface:        #DBA08C;
+  --surface-sunken: #A8634C;
+  --text-primary:   #291C18;
+  --text-secondary: #4C3B36;
+  --text-muted:     #7A665F;
+  --icon:           var(--text-primary);
+  --edge:           #805446;
+
+  --accent-1: #9E4B2F; --accent-1-soft: #EBDBD5;
+  --accent-2: #E5A847; --accent-2-soft: #F9EDDA;
+  --accent-3: #5F8F45; --accent-3-soft: #DFE8D9;
+  --accent-4: #3C6FAA; --accent-4-soft: #D8E2EE;
+  --accent-5: #9B3F7A; --accent-5-soft: #EBD8E4;
+  --accent-6: #C25A3F; --accent-6-soft: #F2DED8;
+  --on-accent: #FFFFFF;
+}

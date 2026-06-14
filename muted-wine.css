@@ -1,0 +1,20 @@
+[data-theme="muted-wine"] {
+  --font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+  --bg:             #C76777;
+  --surface:        #DB8C9A;
+  --surface-sunken: #A84C5B;
+  --text-primary:   #29181B;
+  --text-secondary: #4C3639;
+  --text-muted:     #7A5F64;
+  --icon:           var(--text-primary);
+  --edge:           #804650;
+
+  --accent-1: #9E2F42; --accent-1-soft: #EBD5D9;
+  --accent-2: #E5A847; --accent-2-soft: #F9EDDA;
+  --accent-3: #5F8F45; --accent-3-soft: #DFE8D9;
+  --accent-4: #3C6FAA; --accent-4-soft: #D8E2EE;
+  --accent-5: #9B3F7A; --accent-5-soft: #EBD8E4;
+  --accent-6: #C25A3F; --accent-6-soft: #F2DED8;
+  --on-accent: #FFFFFF;
+}
