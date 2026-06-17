@@ -25,4 +25,4 @@ Requires **Tesserae 0.47.9 or newer** (theme catalog kind).
 
 ## License
 
-MIT. See [LICENSE](./LICENSE).
+AGPL-3.0-or-later. See [LICENSE](./LICENSE).
